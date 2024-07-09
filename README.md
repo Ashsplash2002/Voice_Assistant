@@ -1,5 +1,4 @@
-# AIN_Project
-Artificial intelligence voice assistant
+# Artificial intelligence voice assistant
 
 ## Idea behind code 
 ### Topic that has been chosen 
